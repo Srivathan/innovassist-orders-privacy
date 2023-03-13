@@ -17,10 +17,10 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information  
-Orders App collects location data only to enable bluetooth printer. This information will not be used when the app is closed or not in use. Kindly allow location access when prompted. 
+Orders App collects location data only to enable bluetooth printer. This information will not be used when the app is closed or not in use. Kindly allow location access when prompted to be able to use the bluetooth printer mode. 
 
 ### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+We collect information from your device in some cases. The information will be utilized for provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
